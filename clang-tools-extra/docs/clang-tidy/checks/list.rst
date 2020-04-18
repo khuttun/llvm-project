@@ -64,6 +64,7 @@ Clang-Tidy Checks
    `bugprone-lambda-function-name <bugprone-lambda-function-name.html>`_,
    `bugprone-macro-parentheses <bugprone-macro-parentheses.html>`_, "Yes"
    `bugprone-macro-repeated-side-effects <bugprone-macro-repeated-side-effects.html>`_,
+   `bugprone-map-subscript-operator-lookup <bugprone-map-subscript-operator-lookup.html>`_,
    `bugprone-misplaced-operator-in-strlen-in-alloc <bugprone-misplaced-operator-in-strlen-in-alloc.html>`_, "Yes"
    `bugprone-misplaced-pointer-arithmetic-in-alloc <bugprone-misplaced-pointer-arithmetic-in-alloc.html>`_, "Yes"
    `bugprone-misplaced-widening-cast <bugprone-misplaced-widening-cast.html>`_,

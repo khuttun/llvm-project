@@ -75,6 +75,12 @@ New module
 
 New checks
 ^^^^^^^^^^
+
+- New :doc:`bugprone-map-subscript-operator-lookup
+  <clang-tidy/checks/bugprone-map-subscript-operator-lookup>` check.
+
+  Finds map lookups done with ``operator[]``.
+
 - New :doc:`cppcoreguidelines-avoid-non-const-global-variables
   <clang-tidy/checks/cppcoreguidelines-avoid-non-const-global-variables>` check.
   Finds non-const global variables as described in check I.2 of C++ Core
